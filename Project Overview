@@ -6,7 +6,7 @@ This game is an original hard-coded basic CLI java game and is not a copy/modifi
 This game is a text-based adventure where the player(hero) rescues the princess from the dungeon deep inside the caverns.
 The objective is to overcome the challenges by choosing the correct decisions.
 
-We took inspiration from a list of possible simple CLI java games that chatGPT provided.
+We took inspiration from a list of possible simple CLI java games that we sourced from the Internet.
 From there, we researched how we can program our very own text-based CLI game from scratch.
 
 We feel that the code we came up with can still be polished for more efficient readibility.
